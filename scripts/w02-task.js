@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName = "Emily Mudzimba";
 let currentYear = "2023";
-const profilePicture = "..\images\me.jpg";
+const profilePicture = "../images/me.jpg";
 
 
 /* Step 3 - Element Variables */
